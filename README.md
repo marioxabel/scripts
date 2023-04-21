@@ -61,7 +61,7 @@ UserInfo{0:Owner:c13} running
 ```
 And to install the files in the last 3 users ("10", "11", "12") You can run: 
 ```console
-foo@bar:~/apksFolder$ ./bulkWorkInstaller.sh 3
+foo@bar:~/apksFolder$ bulkWorkInstaller.sh 3
 ```
 Expected output:
 ```console
